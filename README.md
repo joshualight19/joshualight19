@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joshualight19
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Frontend Development
+- 🌱 I’m currently learning Backend Development
 - 💞️ I’m looking to collaborate on Frontend Projects
 - 📫 How to reach me joshuaakerele8@gmail.com
 - ⚡ Fun fact: Football
